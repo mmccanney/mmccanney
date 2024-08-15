@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Mike McCanney
-- 👀 I’m interested in C++, HTML/CSS, Python (at the moment)
-- 🌱 I’m currently learning how to navigate github
+- 👋 Hello, you've reached the site of Mike McCanney
+- 👀 I’m interested in C++, HTML/CSS, Python
+- 🌱 I’m currently working on documenting my employers control structure
 
 <!---
 mmccanney/mmccanney is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
